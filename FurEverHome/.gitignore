@@ -1,0 +1,22 @@
+## Visual Studio / .NET essentials
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.log
+*.pdb
+.idea/
+.vscode/
+packages/
+node_modules/
+appsettings.Development.json
+secrets.json
+*.mdf
+*.ldf
